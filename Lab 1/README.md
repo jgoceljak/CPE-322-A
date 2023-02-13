@@ -10,7 +10,7 @@ $ ghdl -r hello_world
 Hello world!
 ```
 
-![alt text](Lab 1/hello world commands.png)
+![Helloworld](https://github.com/jgoceljak/CPE-322-A/blob/d6cc7fbfc8f52b8c8e19c22ca0ba20cf0ff9a5b4/Lab%201/hello%20world%20commands.png)
 ## Half Adder
 
 ```
