@@ -1,9 +1,76 @@
 ## LAB 2
 Command Line
 
-![1](
+```
+$ hostname
+$ env
+```
+
+![1](https://github.com/jgoceljak/CPE-322-A/blob/349f8dbf0fe1fb84e8f78363bf75cf709a1995f6/Lab%202/hostnameenv.png)
+
+```
+ps
+```
+![2](https://github.com/jgoceljak/CPE-322-A/blob/349f8dbf0fe1fb84e8f78363bf75cf709a1995f6/Lab%202/ps.png)
+
+```
+$ git clone https://github.com/kevinwlu/iot.git
+```
+
+```
+$ cd iot
+$ ls
+$ cd
+$ df
+$ mkdir demo
+cd demo
+```
+![3](https://github.com/jgoceljak/CPE-322-A/blob/349f8dbf0fe1fb84e8f78363bf75cf709a1995f6/Lab%202/cdiot.png)
+![4](https://github.com/jgoceljak/CPE-322-A/blob/349f8dbf0fe1fb84e8f78363bf75cf709a1995f6/Lab%202/demo.png)
+
+```
+nano file
+```
+
+![5](https://github.com/jgoceljak/CPE-322-A/blob/349f8dbf0fe1fb84e8f78363bf75cf709a1995f6/Lab%202/nano%20file.png)
+
+use this gui to make a file that says hello world and save with Ctrl+X
+```
+$ cat file
+$ cp file file1
+$ mv file file2
+$ rm file2
+```
+![6](https://github.com/jgoceljak/CPE-322-A/blob/349f8dbf0fe1fb84e8f78363bf75cf709a1995f6/Lab%202/cat.png)
+![7](https://github.com/jgoceljak/CPE-322-A/blob/349f8dbf0fe1fb84e8f78363bf75cf709a1995f6/Lab%202/copyfing.png)
+
+```
+clear
+```
+![8](https://github.com/jgoceljak/CPE-322-A/blob/349f8dbf0fe1fb84e8f78363bf75cf709a1995f6/Lab%202/clear.png)
+
+```
+$ uname -a
+```
+![8](https://github.com/jgoceljak/CPE-322-A/blob/349f8dbf0fe1fb84e8f78363bf75cf709a1995f6/Lab%202/uname.png)
+
+```
+ipconfig (Winwodws)
+```
+
+![9](https://github.com/jgoceljak/CPE-322-A/blob/349f8dbf0fe1fb84e8f78363bf75cf709a1995f6/Lab%202/ipconfig.png)
 
 
+```
+ping localhost
+```
+
+![10](https://github.com/jgoceljak/CPE-322-A/blob/349f8dbf0fe1fb84e8f78363bf75cf709a1995f6/Lab%202/ping%20localhost.png)
+
+
+```
+netstat
+```
 
 
 Active Connections
