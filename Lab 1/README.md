@@ -1,5 +1,5 @@
-##GTKwave and GHDL
-#Hello World
+## GTKwave and GHDL
+## Hello World
 
 ```
 $ ghdl -h
