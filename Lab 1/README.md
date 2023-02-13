@@ -9,6 +9,8 @@ $ ghdl -e hello_world
 $ ghdl -r hello_world
 Hello world!
 ```
+
+![alt text](Lab 1/hello world commands.png)
 ## Half Adder
 
 ```
