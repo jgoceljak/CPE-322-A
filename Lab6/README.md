@@ -36,4 +36,4 @@ python3 say_hello.py
 
 and achieved this output
 
-![3]()
+![3](https://github.com/jgoceljak/CPE-322-A/blob/8c6a2cd877924ed362076bc93afe1aab94657956/Lab6/pystache.jpg)
