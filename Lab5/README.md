@@ -26,4 +26,4 @@ python3 pubcpu.py
 
 I was able to get the CPU usage readings from one device to the other as shown
 
-![2]()
+![2](https://github.com/jgoceljak/CPE-322-A/blob/bd8342acb7bfd3147c7a72fea113ec9e57914693/Lab5/cpuusage.jpg)
