@@ -20,7 +20,7 @@ Then upon running the following command for the example, this was the result. Th
 node http.js
 ```
 
-![2]()
+![2](https://github.com/jgoceljak/CPE-322-A/blob/76d75cd3316ba13bc81171dfed9aff53c9d06ad8/Lab6/refreshing.jpg)
 
 For the next part of the lab, I had to install pysstache onto my windows device using the following command.
 
