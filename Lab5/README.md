@@ -11,7 +11,7 @@ and
 sudo pip3 install -U paho-mqtt
 ```
 
-![1]()
+![1](https://github.com/jgoceljak/CPE-322-A/blob/71ab85f14212c54c2ff02105bb6c80a7460be074/Lab5/pulling.jpg)
 
 Then running the follow command on my windows device
 ```
