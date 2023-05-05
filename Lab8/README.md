@@ -22,7 +22,7 @@ After this, I ran some of the sample code using the libraries
 
 ![2](https://github.com/jgoceljak/CPE-322-A/blob/17cd5b0dc92315a69b6abbdddb757a4d5c4f0dbd/Lab8/IMG_2731.JPG)
 
-![3]()
+![3](https://github.com/jgoceljak/CPE-322-A/blob/9533282cbea9a7a303d67b44ba4548c56ca3af9a/Lab8/IMG_2732.JPG)
 
 Then I downloaded the sheet from lab 7 as a csv file onto my pi, and edited plt_final.py and plt_cv2.py to refer to the correct file name.
 
