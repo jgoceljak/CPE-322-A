@@ -30,4 +30,8 @@ Using the following command, I installed gspread and oauth2client onto my Pi
 sudo pip3 install -U gspread oauth2client
 ```
 
+I then copied system_info.py, rpi_spreadsheet.py, and the json key file into the same demo folder from the first part, and edited the file to have the json key file name. 
 
+Then after running program, the spreadsheet was gradually populated with the following data.
+
+![3]()
