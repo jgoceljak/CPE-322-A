@@ -34,4 +34,4 @@ I then copied system_info.py, rpi_spreadsheet.py, and the json key file into the
 
 Then after running program, the spreadsheet was gradually populated with the following data.
 
-![3]()
+![3](https://github.com/jgoceljak/CPE-322-A/blob/40ccab7492951b1a00697f83928cc97c6ecc75ca/Lab7/spreadsheet.jpg)
