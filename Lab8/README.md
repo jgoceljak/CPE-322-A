@@ -29,3 +29,6 @@ Then I downloaded the sheet from lab 7 as a csv file onto my pi, and edited plt_
 Then I ran plt_cv2.py
 
 ![4](https://github.com/jgoceljak/CPE-322-A/blob/ed2e0286a5324be013e786af467b185a598b7b50/Lab8/IMG_2733.JPG)
+
+
+plt_final.py would not run due to an error with the pandas library. If I manage to fix this issue I will update this README
