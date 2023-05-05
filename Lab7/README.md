@@ -22,7 +22,7 @@ After running thingspeak_feed.py for a couple minutes, I got the following outpu
 
 For the second part of the lab, I went to the Google Cloud Platform Identity and Access Management site and created a new project rpidata. From there I enabled drive and sheets API, and created a service account. With this service account, I created a json file and downloaded it. 
 
-![2]()
+![2](https://github.com/jgoceljak/CPE-322-A/blob/49179cee7fcb82345d5b30ae276e07d0f0f88b57/Lab7/json.jpg)
 
 Using the following command, I installed gspread and oauth2client onto my Pi
 
