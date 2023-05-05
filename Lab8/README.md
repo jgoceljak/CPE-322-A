@@ -18,7 +18,7 @@ $ sudo pip3 install -U keras==2.3.1
 
 After this, I ran some of the sample code using the libraries
 
-![1]()
+![1](https://github.com/jgoceljak/CPE-322-A/blob/e973da52d6a0c140209f8b0b85834eb1e8041417/Lab8/IMG_2730.JPG)
 
 ![2]()
 
