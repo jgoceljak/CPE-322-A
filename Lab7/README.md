@@ -18,7 +18,7 @@ When prompted to enter my API key, I entered the key provided for the channel on
 
 After running thingspeak_feed.py for a couple minutes, I got the following output on the website
 
-![1]()
+![1](https://github.com/jgoceljak/CPE-322-A/blob/1ab24ac791b223f12258bb66a40c16af5ffaf0f9/Lab7/websiteresults.jpg)
 
 For the second part of the lab, I went to the Google Cloud Platform Identity and Access Management site and created a new project rpidata. From there I enabled drive and sheets API, and created a service account. With this service account, I created a json file and downloaded it. 
 
