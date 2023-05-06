@@ -17,7 +17,7 @@ $ pyang -f uml -o intrusiondetection.uml intrusiondetection.yang --uml-no=stereo
 $ cat intrusiondetection.uml
 ```
 
-![1]()
+![1](https://github.com/jgoceljak/CPE-322-A/blob/470c6e8540e2fc540a8651553207aae1fcdb4463/Lab9/IMG_2735.JPG)
 
 Once pyang was run, I installed plantUML and ran it to create the sequence diagram in PNG
 
