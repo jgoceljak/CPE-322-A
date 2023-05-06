@@ -39,4 +39,4 @@ gimp -h
 gimp -a intrusiondetection.png
 ```
 
-![2]()
+![2](https://github.com/jgoceljak/CPE-322-A/blob/5c7f4dd6ea59404e6a191b87091ba58ebba46b52/Lab9/IMG_2736.JPG)
